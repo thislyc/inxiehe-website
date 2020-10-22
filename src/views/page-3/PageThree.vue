@@ -48,15 +48,15 @@ export default {
     return {
       count: [
         {
-          number: "17000+",
+          number: "20K+",
           des: "累计用户"
         },
         {
-          number: "600+",
+          number: "700+",
           des: "收藏人数"
         },
         {
-          number: "100+",
+          number: "110+",
           des: "封面语"
         },
         {
